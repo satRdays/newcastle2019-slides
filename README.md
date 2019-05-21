@@ -4,7 +4,7 @@ Speaker slides and materials for SatRday Newcastle 2019. You can find the schedu
 
 Find our livestreamed talks on the SatRdays YouTube shortly.
 
-* Noa Tamir: [Data Culture in Practice]
+* Noa Tamir: [Data Culture in Practice]()
 * Sebastian Mellor: [Deploy R and Shiny: A Practical Comparison of Shiny Server / Shinyproxy / Rstudio Connect]()
 * Jelena Ilic: [Modelling, Tidyverse Way]()
 * Dean Allsopp: [Interpretable Machine Learning with R]()
