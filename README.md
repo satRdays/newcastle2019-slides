@@ -10,7 +10,7 @@ Find our livestreamed talks on the SatRdays YouTube shortly.
 * Dean Allsopp: [Interpretable Machine Learning with R]()
 * Joe Gallagher: [Football Analytics with the Soccermatics Package]()
 * Tom Merritt Smith: [Text Mining and Modelling in R]()
-* Thomas Lin Pedersen [Creative Coding for Fun and (Non)Profit]()
+* Thomas Lin Pedersen [Creative Coding for Fun and (Non)Profit](https://www.data-imaginist.com/slides/srd_newcastle2019/assets/player/keynotedhtmlplayer)
 * Steph Locke: [Sql Server and R for Real-time Predictions]()
 * Rike Bolam: [Introducing R-ladies Newcastle]()
 * Scott Bell [Deploying a R Model as a Restful Api]()
