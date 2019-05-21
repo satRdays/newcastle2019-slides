@@ -6,7 +6,7 @@ Find our livestreamed talks on the SatRdays YouTube shortly.
 
 * Noa Tamir: [Data Culture in Practice]()
 * Sebastian Mellor: [Deploy R and Shiny: A Practical Comparison of Shiny Server / Shinyproxy / Rstudio Connect]()
-* Jelena Ilic: [Modelling, Tidyverse Way]()
+* Jelena Ilic: [Modelling, Tidyverse Way]() ([R script]())
 * Dean Allsopp: [Interpretable Machine Learning with R]()
 * Joe Gallagher: [Football Analytics with the Soccermatics Package]()
 * Tom Merritt Smith: [Text Mining and Modelling in R]()
