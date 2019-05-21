@@ -4,7 +4,7 @@ Speaker slides and materials for SatRday Newcastle 2019. You can find the schedu
 
 Find our livestreamed talks on the SatRdays YouTube shortly.
 
-* Noa Tamir: [Data Culture in Practice]()
+* Noa Tamir: Data Culture in Practice
 * Sebastian Mellor: [Deploy R and Shiny: A Practical Comparison of Shiny Server / Shinyproxy / Rstudio Connect](https://github.com/satRdays/newcastle2019-slides/blob/master/02-mellor-deploy-r.pdf)
 * Jelena Ilic: [Modelling, Tidyverse Way](https://github.com/satRdays/newcastle2019-slides/blob/master/03-ilic-modelling-tidyverse.pdf) ([R script](https://github.com/satRdays/newcastle2019-slides/blob/master/03-ilic-modelling-tidyverse-script.R))
 * Dean Allsopp: [Interpretable Machine Learning with R](https://github.com/satRdays/newcastle2019-slides/blob/master/04-allsopp-interpretable-ml.pdf)
@@ -13,6 +13,6 @@ Find our livestreamed talks on the SatRdays YouTube shortly.
 * Thomas Lin Pedersen [Creative Coding for Fun and (Non)Profit](https://www.data-imaginist.com/slides/srd_newcastle2019/assets/player/keynotedhtmlplayer)
 * Steph Locke: [Sql Server and R for Real-time Predictions](https://itsalocke.com/slides/microsoftmlserver#/)
 * Rike Bolam: [Introducing R-ladies Newcastle](https://github.com/satRdays/newcastle2019-slides/blob/master/09-bolam-rladies.pdf)
-* Scott Bell [Deploying a R Model as a Restful Api]()
+* Scott Bell Deploying a R Model as a Restful Api
 * Jamie Owen [Real Time Shiny Applications](https://github.com/satRdays/newcastle2019-slides/blob/master/11-owen-shiny-sockets.pdf)
 * Robin Lovelace [Geocomputation with R: Reproducible Geo* Workflows, from Getting Data to Making Maps]()
