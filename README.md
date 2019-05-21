@@ -2,7 +2,7 @@
 
 Speaker slides and materials for SatRday Newcastle 2019. You can find the schedule of the day on our [website](https://newcastle2019.satrdays.org/).
 
-Find our livestreamed talks on the SatRdays YouTube shortly.
+The audio for livestreamed talks will be available shortly.
 
 * Noa Tamir: Data Culture in Practice
 * Sebastian Mellor: [Deploy R and Shiny: A Practical Comparison of Shiny Server / Shinyproxy / Rstudio Connect](https://github.com/satRdays/newcastle2019-slides/blob/master/02-mellor-deploy-r.pdf)
@@ -15,4 +15,4 @@ Find our livestreamed talks on the SatRdays YouTube shortly.
 * Rike Bolam: [Introducing R-ladies Newcastle](https://github.com/satRdays/newcastle2019-slides/blob/master/09-bolam-rladies.pdf)
 * Scott Bell Deploying a R Model as a Restful Api
 * Jamie Owen [Real Time Shiny Applications](https://github.com/satRdays/newcastle2019-slides/blob/master/11-owen-shiny-sockets.pdf)
-* Robin Lovelace [Geocomputation with R: Reproducible Geo* Workflows, from Getting Data to Making Maps]()
+* Robin Lovelace [Geocomputation with R: Reproducible Geo* Workflows, from Getting Data to Making Maps](e)
