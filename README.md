@@ -13,6 +13,6 @@ The audio for livestreamed talks will be available shortly.
 * Thomas Lin Pedersen [Creative Coding for Fun and (Non)Profit](https://www.data-imaginist.com/slides/srd_newcastle2019/assets/player/keynotedhtmlplayer)
 * Steph Locke: [Sql Server and R for Real-time Predictions](https://itsalocke.com/slides/microsoftmlserver#/)
 * Rike Bolam: [Introducing R-ladies Newcastle](https://github.com/satRdays/newcastle2019-slides/blob/master/09-bolam-rladies.pdf)
-* Scott Bell Deploying a R Model as a Restful Api
-* Jamie Owen [Real Time Shiny Applications](https://github.com/satRdays/newcastle2019-slides/blob/master/11-owen-shiny-sockets.pdf)
-* Robin Lovelace [Geocomputation with R: Reproducible Geo* Workflows, from Getting Data to Making Maps](e)
+* Scott Bell: Deploying a R Model as a Restful Api
+* Jamie Owen: [Real Time Shiny Applications](https://github.com/satRdays/newcastle2019-slides/blob/master/11-owen-shiny-sockets.pdf)
+* Robin Lovelace: [Geocomputation with R: Reproducible Geo* Workflows, from Getting Data to Making Maps](e)
